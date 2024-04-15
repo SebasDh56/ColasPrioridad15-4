@@ -34,7 +34,7 @@ public class PriorityQueueE {
         queue.add(10);
         queue.add(4);
 
-        System.out.println("Los valores son     "+queue);
+        System.out.println("Los valores son       "+queue);
 
         System.out.println("Los valores son     "+queue.poll());
 
